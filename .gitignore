@@ -76,6 +76,3 @@ dmypy.json
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-
-# Large model files (temporarily excluded for GitHub upload)
-*.pkl
